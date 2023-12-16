@@ -35,7 +35,7 @@ and with new modifiers (beyond ``break``, ``return``): ``restart``, ``pause``, `
 .. _structured concurrency: https://en.wikipedia.org/wiki/Structured_concurrency
 .. _SugarCubes: https://github.com/LordManta/SugarCubesJS
 
-.. note::
+.. NOTE::
 
 	This project is under active development.
  
